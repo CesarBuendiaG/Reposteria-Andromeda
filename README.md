@@ -1,12 +1,12 @@
 # Reposteria-Andromeda
 
 ### Marca
-![Marca](https://github.com/CesarBuendiaG/Reposteria-Andromeda/blob/main/Reposteria%20Andromeda/assets/img/marca.png?raw=true)
+im
 
 
 ### Logos
 
-![Logo](https://github.com/CesarBuendiaG/Reposteria-Andromeda/blob/main/Reposteria%20Andromeda/assets/img/logo.png?raw=true)
+<img src="assets/img/logo.png" alt="logo-Andromeda" width="70px">
 ![Footer](https://github.com/CesarBuendiaG/Reposteria-Andromeda/blob/main/Reposteria%20Andromeda/assets/img/footer.png?raw=true)
 
 
