@@ -20,7 +20,7 @@ https://cesarbuendiag.github.io/Reposteria-andromeda/
 <img src="assets/img/chef a menu.png" alt="Pagina chef" width="300px">
 
 ## 🧁Footer de contacto de empresa
-<img src="assets/img/contacto.png" alt="Pagina chef" width="300px">
+<img src="assets/img/contacto.png" alt="Pagina chef">
 
 
 ## 🧁Tecnologías utilizadas🛠️ 
