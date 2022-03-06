@@ -14,7 +14,7 @@
 ## Login de Administrador
 
 <img src="assets/img/Pagina del chef.png" alt="Pagina chef" width="300px">
-![Login](https://github.com/CesarBuendiaG/Reposteria-Andromeda/blob/main/Reposteria%20Andromeda/assets/img/login.png?raw=true)
+<img src="assets/img/chef a menu.png" alt="Pagina chef" width="300px">
 
 
 ## Tecnologías utilizadas🛠️ 
